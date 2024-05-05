@@ -1,0 +1,48 @@
+.Admin {
+    width: 100%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+
+.Admin input {
+    margin-bottom: 15px;
+    padding: 25px;
+
+
+    border-color: #ffe600;
+    border-style: solid;
+}
+
+
+.Admin  button {
+
+    padding: 25px;
+    border-radius: 0;
+    border-style: none;
+    background-color: #ffe600;
+    color: rgb(0, 0, 0);
+}
+
+.Admin  p {
+    flex-wrap: wrap;
+    max-width: 100%;
+    text-align: center;
+    font-size: 20px;
+}
+
+.op {
+    margin-right: 30px;
+}
+
+.calcs {
+    justify-items: center;
+    margin-bottom: 50px;
+}
+
+a {
+    border-bottom: solid;
+}

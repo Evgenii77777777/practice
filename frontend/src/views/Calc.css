@@ -1,0 +1,37 @@
+.Calc {
+    min-height: calc(100vh - 70px - 70px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+
+.Calc input {
+    
+    margin-bottom: 15px;
+    padding: 25px;
+
+
+    border-color: #ffe600;
+    border-style: solid;
+
+}
+
+
+.Calc button {
+    
+    padding: 25px;
+
+    border-style: none;
+    background-color: #ffe600;
+    color: rgb(0, 0, 0);
+}
+
+.Calc p {
+    text-align: center;
+
+}

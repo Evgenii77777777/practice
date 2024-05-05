@@ -1,0 +1,28 @@
+.Item {
+    width: 100%;
+    display: grid;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 50px;
+
+}
+
+.btn {
+
+    padding: 25px;
+    border-radius: 0;
+    border-style: none;
+    background-color: #ffe600;
+    color: rgb(0, 0, 0);
+}
+
+.btn:hover {
+    cursor: pointer;
+
+}
+
+.Item p {
+
+    font-size: 20px;
+}
+
